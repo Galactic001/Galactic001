@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ayush Pradhan and I'm a Game Developer</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Galactic001/Galactic001/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Galactic001/Galactic001/snake.svg" alt="Snake animation" />
 
 ###
 
