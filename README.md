@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Galactic001/Galactic001/snake.svg" alt="Snake animation" />
+<img src="https://Galactic001/Galactic001/snake.svg" alt="Snake animation" />
 
 ###
 
