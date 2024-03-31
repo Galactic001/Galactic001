@@ -70,12 +70,10 @@
 
 <br clear="both">
 
-<img src="https://Galactic001/Galactic001/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Galactic001/Galactic001/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Galactic001/count.svg?"  />
 </div>
-
-###
