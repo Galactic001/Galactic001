@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ayush Pradhan
-### Game Developer | Unity Specialist | Founder of AllVarity
+### Game Developer | Unity Specialist | Co-Founder of AllVarity
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
