@@ -2,25 +2,27 @@
 ### Game Developer | Unity Specialist
 
 <p align="left">
-<a href="https://linkedin.com/in/ayush-pradhan123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushpradhan123n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Galactic001&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
 
 ### 🕹️ About Me
 
-I am a **Game Developer** specializing in the **Unity Engine** and **C#**. I focus on creating mobile experiences, ranging from pirate-themed shooters to automation games like **Harvest Automata**. Currently, I am also developing a **SaaS Mobile Compliance Hub** to help developers manage App Store requirements.
+I am a **Game Developer** specializing in **Unity** and **C#**, building mobile experiences like *Harvest Automata*. I'm currently developing a **SaaS Mobile Compliance Hub** aswell.
 
-* 🚀 **Latest Release:** Moved my Pirate Cannonball game to full production on Android.
-* 🧠 **Skills:** Unity, C#, C++, Git, and Next.js for studio web development.
+- 🛠️ **Current Projects:** Harvest Automata.
+- 🚀 **Latest Release:** Pirate-themed cannonball blast game on Android.
+- 🎓 **Background:** Recent Graduate focused on Software Engineering.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,blender,nextjs,tailwind,js,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,blender,nextjs,tailwind,js,figma,ps,ai,ae" />
 </p>
 
 ---
@@ -44,8 +46,4 @@ I am a **Game Developer** specializing in the **Unity Engine** and **C#**. I foc
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Galactic001/Galactic001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Galactic001/count.svg" alt="Visitor Count" />
 </p>
