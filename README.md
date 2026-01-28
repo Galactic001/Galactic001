@@ -12,7 +12,6 @@
 
 I am a **Game Developer** specializing in the **Unity Engine** and **C#**. I focus on creating mobile experiences, ranging from pirate-themed shooters to automation games like **Harvest Automata**. Currently, I am also developing a **SaaS Mobile Compliance Hub** to help developers manage App Store requirements.
 
-* 🛠️ **Core Projects:** [Harvest Automata](https://github.com/Galactic001) and [AllVarity.Core](https://github.com/Galactic001).
 * 🚀 **Latest Release:** Moved my Pirate Cannonball game to full production on Android.
 * 🧠 **Skills:** Unity, C#, C++, Git, and Next.js for studio web development.
 
